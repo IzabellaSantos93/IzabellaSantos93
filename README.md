@@ -4,7 +4,7 @@
 - :computer::books: Estou aprendendo Front End no Senai no programa "Ford-Enter".
 - :doughnut:⚽ Fun fact: Nas horas vagas gosto de praticar esportes como "Futsal" e gosto de cozinhar.
 
- <img src="https://neoris.com/documents/20126/0/linkedin-logo.png/78636176-b138-7f6c-d1a9-2a9426407cdf?version=1.0&t=1625005730427&imagePreview=1" width="90"> <a href="https://www.linkedin.com/in/izabela-santos-111611109/">Linkedin</a>
+ <img src="https://neoris.com/documents/20126/0/linkedin-logo.png/78636176-b138-7f6c-d1a9-2a9426407cdf?version=1.0&t=1625005730427&imagePreview=1" width="50"> <a href="https://www.linkedin.com/in/izabela-santos-111611109/">Linkedin</a>
 
 
 <div align="center">
