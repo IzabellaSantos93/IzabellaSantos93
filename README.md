@@ -9,7 +9,8 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IzabellaSantos93&theme=transparent&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IzabellaSantos93&theme=transparent&show_icons=true) 
+
 
 </div>
 
